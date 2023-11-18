@@ -202,8 +202,8 @@ Does your animal have legs?
 Spider
 null
 null
-does it suck blood
-Leech
+Does it have a shell?
+Terrestrial Snail
 null
 null
 Worm
