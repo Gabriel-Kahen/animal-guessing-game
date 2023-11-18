@@ -1,0 +1,211 @@
+Is your animal a vertebrate?
+Is your animal a mammal?
+Is your animal a feline?
+Is your animal domesticated?
+House Cat
+null
+null
+Does your animal striped?
+Tiger
+null
+null
+Lion
+null
+null
+Is your animal a sea creature?
+Does your animal have an elongated beak?
+Dolphin
+null
+null
+Does your animal spend lots of time on land?
+Does your animal have tusks?
+Walrus
+null
+null
+Seal
+null
+null
+Whale
+null
+null
+Is your animal a type of ape?
+Is your animal usually reddish-orange?
+Orangutan
+null
+null
+Gorilla
+null
+null
+Does your animal have a trunk?
+Is your animal significantly larger than the average car?
+Elephant
+null
+null
+Anteater
+null
+null
+Does your animal have antlers?
+Deer
+null
+null
+Does your animal have horns?
+Rhinoceros
+null
+null
+Is your animal a type of bear?
+Does your animal eat bamboo?
+Panda
+null
+null
+Does your animal only naturally live in the Arctic?
+Polar Bear
+null
+null
+Is your animal's fur black?
+Black Bear
+null
+null
+Grizzly Bear
+null
+null
+Can your animal fly?
+Bat
+null
+null
+Is your animal often given a saddle?
+Horse
+null
+null
+Does your animal say moo?
+Cow
+null
+null
+Is your animal known for having a long neck?
+Giraffe
+null
+null
+Does your animal live in burrows?
+Rabbit
+null
+null
+Dog
+null
+null
+Is your animal a reptile?
+Does your animal have a shell?
+Turtle
+null
+null
+Does your animal slither?
+Snake
+null
+null
+Can your animal change colors?
+Chameleon
+null
+null
+Iguana
+null
+null
+Is your animal an amphibian?
+Does your animal ribbit?
+Frog
+null
+null
+Axolotl
+null
+null
+Does your animal have wings?
+Is your animal a bird?
+Can your animal fly?
+Is your animal a herbivore?
+Does your animal imitate human speech?
+Parrot
+null
+null
+Goose
+null
+null
+Can your animal fly backwards?
+Hummingbird
+null
+null
+Is your animal served at Chick-Fil-A?
+Chicken
+null
+null
+Does your animal hoot?
+Owl
+null
+null
+Eagle
+null
+null
+Does your animal primarily have black feathers?
+Ostrich
+null
+null
+Is your animal native to Australia?
+Emu
+null
+null
+Kiwi
+null
+null
+Flying Fish
+null
+null
+Shark
+null
+null
+Is your animal a sea creature?
+Does your animal have an exoskeleton?
+Does your animal have a shell?
+Does your animal often fry rice?
+Shrimp
+null
+null
+Is the main source of your animal Maine?
+Lobster
+null
+null
+Clam
+null
+null
+Sea Urchin
+null
+null
+Can your animal move on its own?
+Does your animal have suckers on its arms?
+Octopus
+null
+null
+Jellyfish
+null
+null
+Sponge
+null
+null
+Is your animal an insect?
+Was your animal originally a caterpillar?
+Butterfly
+null
+null
+Is your animal often red with black spots?
+Ladybug
+null
+null
+Ant
+null
+null
+Does your animal have legs?
+Spider
+null
+null
+does it suck blood
+parasite
+null
+null
+Worm
+null
+null
