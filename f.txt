@@ -203,7 +203,7 @@ Spider
 null
 null
 does it suck blood
-parasite
+Leech
 null
 null
 Worm
