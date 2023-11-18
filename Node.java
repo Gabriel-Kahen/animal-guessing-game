@@ -74,7 +74,6 @@ public class Node
         right.printPostOrder();
         }
         System.out.print(value + " ");
-
     }
 
     public String print(){
@@ -131,7 +130,7 @@ public class Node
         catch(IOException ioe){
           }
 
-    int[] current = {0}; // This is so stupid I hate my life I had this as an integer and it wouldn't work it would just make the whole array symmetrical and apparently it's because ints are immutable so just making it an int array with one value fixed it hahahhah fml I spent an hour trying to figure out why this wouldn't work im miserable
+    int[] current = {0};
     return buildTreeHelper(vals, current);
 }
 
@@ -146,7 +145,6 @@ private static Node buildTreeHelper(ArrayList<String> vals, int[] current) {
     current[0]++;
 
     n.setLeft(buildTreeHelper(vals, current));
-    //like I thought that current would be different in these two calls but that's not how it works apparently!!!
     n.setRight(buildTreeHelper(vals, current));
     return n;
 }
