@@ -88,6 +88,10 @@ Does your animal live in burrows?
 Rabbit
 null
 null
+Is your animal black and white?
+Zebra
+null
+null
 Dog
 null
 null

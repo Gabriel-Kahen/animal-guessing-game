@@ -46,36 +46,6 @@ public class Node
         this.value = value;
     }
 
-    public void printInOrder(){
-        if(left != null){
-        left.printInOrder();
-        }
-        System.out.print(value + " ");
-        if(right != null){
-        right.printInOrder();
-        }
-    }
-
-    public void printPreOrder(){
-        System.out.print(value + " ");
-        if(left != null){
-        left.printPreOrder();
-        }
-        if(right != null){
-        right.printPreOrder();
-        }
-    }
-
-    public void printPostOrder(){
-        if(left != null){
-        left.printPostOrder();
-        }
-        if(right != null){
-        right.printPostOrder();
-        }
-        System.out.print(value + " ");
-    }
-
     public String print(){
         return this.print("", true, "");
     }
@@ -240,7 +210,7 @@ public static Node guess(Node n, Node original){
         input.close();
         return null;
     }
-    //n.print();
+
     System.out.println(n.getValue());
 
     try{Thread.sleep(500);}catch(Exception e){};
